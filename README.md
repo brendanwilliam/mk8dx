@@ -1,5 +1,6 @@
 # Mario Kart 8 Deluxe + DLC | Data Science and Analytics
 **Created** | June 8, 2024
+
 **Author** | Brendan Keane
 
 ## Overview
