@@ -17,5 +17,7 @@ All code for this project is located in the `/src` directory. Any files outside 
 Feel free to reach out to me about this project!
 
 **Email** | [brendan@roughdraftmedia.com](mailto:brendan@roughdraftmedia.com)
+
 **LinkedIn** | [in/brendanwillkeane](https://www.linkedin.com/in/brendanwillkeane/)
+
 **Portfolio** | [bkportfolio.me](https://www.bkportfolio.me/)
