@@ -5,7 +5,7 @@
 **Created** | June 8, 2024
 
 ## Overview
-This project explores data and analytics related to Mario Kart 8 Deluxe + DLC (MK8DX). All data within this project has been manually collected and cleaned by [@brendanwilliam](https://github.com/brendanwilliam) and is available for use under the MIT License agreement. 
+This project explores data and analytics related to *Mario Kart 8 Deluxe + DLC (MK8DX)*. All data within this project has been manually collected and cleaned by [@brendanwilliam](https://github.com/brendanwilliam) and is available for use under the MIT License agreement. 
 
 ## Project Structure
 All code for this project is located in the `/src` directory. Any files outside of this directory are dedicated to project information, instructions, licenses, and other metadata.
