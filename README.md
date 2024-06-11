@@ -1,7 +1,8 @@
 # Mario Kart 8 Deluxe + DLC | Data Science and Analytics
-**Created** | June 8, 2024
 
 **Author** | [@brendanwilliam](https://github.com/brendanwilliam)
+
+**Created** | June 8, 2024
 
 ## Overview
 This project explores data and analytics related to Mario Kart 8 Deluxe + DLC (MK8DX). All data within this project has been manually collected and cleaned by [@brendanwilliam](https://github.com/brendanwilliam) and is available for use under the MIT License agreement. 
