@@ -1,0 +1,411 @@
+race_id,selected_course,race_speed,num_racers,voted_course,num_votes,pct_votes
+1,Rainbow Road,150,12,Squeaky Clean Sprint,4,33.33%
+1,Rainbow Road,150,12,DS Shroom Ridge,3,25.00%
+1,Rainbow Road,150,12,Random,4,33.33%
+1,Rainbow Road,150,12,Rainbow Road,1,8.33%
+2,Sweet Sweet Canyon,150,12,Hyrule Circuit,3,25.00%
+2,Sweet Sweet Canyon,150,12,Sweet Sweet Canyon,7,58.33%
+2,Sweet Sweet Canyon,150,12,3DS Piranha Plant Slide,1,8.33%
+2,Sweet Sweet Canyon,150,12,Random,1,8.33%
+3,3DS DK Jungle,150,12,Wii Koopa Cape,2,16.67%
+3,3DS DK Jungle,150,12,N64 Rainbow Road,5,41.67%
+3,3DS DK Jungle,150,12,Piranha Plant Cove,2,16.67%
+3,3DS DK Jungle,150,12,Random,2,16.67%
+3,3DS DK Jungle,150,12,3DS DK Jungle,1,8.33%
+4,3DS Neo Bowser City,150,8,3DS Neo Bowser City,2,25.00%
+4,3DS Neo Bowser City,150,8,Random,4,50.00%
+4,3DS Neo Bowser City,150,8,Wii Daisy Circuit,2,25.00%
+5,SNES Rainbow Road,Mirror,11,SNES Rainbow Road,6,54.55%
+5,SNES Rainbow Road,Mirror,11,Random,1,9.09%
+5,SNES Rainbow Road,Mirror,11,N64 Royal Raceway,3,27.27%
+5,SNES Rainbow Road,Mirror,11,3DS Rosalina's Ice World,1,9.09%
+6,GBA Ribbon Road,150,10,3DS Toad Circuit,5,50.00%
+6,GBA Ribbon Road,150,10,GBA Ribbon Road,3,30.00%
+6,GBA Ribbon Road,150,10,Sweet Sweet Canyon,2,20.00%
+7,Tour Sydney Sprint,150,12,GCN Yoshi Circuit,7,58.33%
+7,Tour Sydney Sprint,150,12,Random,2,16.67%
+7,Tour Sydney Sprint,150,12,Tour Athens Dash,1,8.33%
+7,Tour Sydney Sprint,150,12,Bowser's Castle,1,8.33%
+7,Tour Sydney Sprint,150,12,Tour Sydney Sprint,1,8.33%
+8,Dragon Driftway,150,8,Dragon Driftway,2,25.00%
+8,Dragon Driftway,150,8,Bowser's Castle,2,25.00%
+8,Dragon Driftway,150,8,Random,3,37.50%
+8,Dragon Driftway,150,8,Tour Paris Promenade,1,12.50%
+9,Ice Ice Outpost,150,12,Ice Ice Outpost,8,66.67%
+9,Ice Ice Outpost,150,12,Tour Singapore Speedway,2,16.67%
+9,Ice Ice Outpost,150,12,Random,2,16.67%
+10,Toad Harbor,150,8,Wii Daisy Circuit,1,12.50%
+10,Toad Harbor,150,8,Tour Vancouver Velocity,4,50.00%
+10,Toad Harbor,150,8,Toad Harbor,1,12.50%
+10,Toad Harbor,150,8,Random,1,12.50%
+10,Toad Harbor,150,8,Water Park,1,12.50%
+11,3DS Toad Circuit,150,12,N64 Rainbow Road,5,41.67%
+11,3DS Toad Circuit,150,12,Random,1,8.33%
+11,3DS Toad Circuit,150,12,3DS Toad Circuit,3,25.00%
+11,3DS Toad Circuit,150,12,Wii Maple Treeway,3,25.00%
+12,Cloudtop Cruise,150,12,DS Shroom Ridge,5,41.67%
+12,Cloudtop Cruise,150,12,Cloudtop Cruise,1,8.33%
+12,Cloudtop Cruise,150,12,GBA Sunset Wilds,4,33.33%
+12,Cloudtop Cruise,150,12,Dolphin Shoals,1,8.33%
+12,Cloudtop Cruise,150,12,Random,1,8.33%
+13,Bone-Dry Dunes,150,12,DS Mario Circuit,3,25.00%
+13,Bone-Dry Dunes,150,12,Random,5,41.67%
+13,Bone-Dry Dunes,150,12,Bone-Dry Dunes,1,8.33%
+13,Bone-Dry Dunes,150,12,Ice Ice Outpost,2,16.67%
+13,Bone-Dry Dunes,150,12,DS Wario Stadium,1,8.33%
+14,Water Park,150,11,Dragon Driftway,2,18.18%
+14,Water Park,150,11,Random,3,27.27%
+14,Water Park,150,11,3DS Neo Bowser City,3,27.27%
+14,Water Park,150,11,Wii Moo Moo Meadows,2,18.18%
+14,Water Park,150,11,Water Park,1,9.09%
+15,Sweet Sweet Canyon,150,11,Sweet Sweet Canyon,5,45.45%
+15,Sweet Sweet Canyon,150,11,Random,3,27.27%
+15,Sweet Sweet Canyon,150,11,Big Blue,3,27.27%
+16,DS Cheep Cheep Beach,150,12,DS Cheep Cheep Beach,5,41.67%
+16,DS Cheep Cheep Beach,150,12,Random,4,33.33%
+16,DS Cheep Cheep Beach,150,12,GBA Snow Land,2,16.67%
+16,DS Cheep Cheep Beach,150,12,3DS Rosalina's Ice World,1,8.33%
+17,Animal Crossing,150,8,Sweet Sweet Canyon,3,37.50%
+17,Animal Crossing,150,8,Animal Crossing,2,25.00%
+17,Animal Crossing,150,8,Random,2,25.00%
+17,Animal Crossing,150,8,GBA Sky Garden,1,12.50%
+18,N64 Yoshi Valley,150,12,N64 Yoshi Valley,5,41.67%
+18,N64 Yoshi Valley,150,12,DS Cheep Cheep Beach,2,16.67%
+18,N64 Yoshi Valley,150,12,N64 Kalimari Desert,3,25.00%
+18,N64 Yoshi Valley,150,12,Random,2,16.67%
+19,3DS Neo Bowser City,150,11,Mount Wario,5,45.45%
+19,3DS Neo Bowser City,150,11,Tour Madrid Drive,1,9.09%
+19,3DS Neo Bowser City,150,11,Random,3,27.27%
+19,3DS Neo Bowser City,150,11,Toad Harbor,1,9.09%
+19,3DS Neo Bowser City,150,11,3DS Neo Bowser City,1,9.09%
+20,Mario Circuit,150,10,Mario Circuit,1,10.00%
+20,Mario Circuit,150,10,Wii Moonview Highway,2,20.00%
+20,Mario Circuit,150,10,Random,4,40.00%
+20,Mario Circuit,150,10,Wii Coconut Mall,3,30.00%
+21,Wii Coconut Mall,150,12,Wii Coconut Mall,7,58.33%
+21,Wii Coconut Mall,150,12,Toad Harbor,3,25.00%
+21,Wii Coconut Mall,150,12,GBA Boo Lake,2,16.67%
+22,3DS Toad Circuit,150,12,3DS Toad Circuit,5,41.67%
+22,3DS Toad Circuit,150,12,3DS Music Park,4,33.33%
+22,3DS Toad Circuit,150,12,N64 Choco Mountain,2,16.67%
+22,3DS Toad Circuit,150,12,Random,1,8.33%
+23,GBA Sunset Wilds,150,12,Random,3,25.00%
+23,GBA Sunset Wilds,150,12,DS Wario Stadium,4,33.33%
+23,GBA Sunset Wilds,150,12,Animal Crossing,3,25.00%
+23,GBA Sunset Wilds,150,12,GBA Snow Land,1,8.33%
+23,GBA Sunset Wilds,150,12,GBA Sunset Wilds,1,8.33%
+24,Tour Singapore Speedway,200,8,Wii Moo Moo Meadows,5,62.50%
+24,Tour Singapore Speedway,200,8,Tour Singapore Speedway,3,37.50%
+25,3DS Rock Rock Mountain,150,9,Wild Woods,5,55.56%
+25,3DS Rock Rock Mountain,150,9,Tour Sydney Sprint,1,11.11%
+25,3DS Rock Rock Mountain,150,9,3DS Rock Rock Mountain,3,33.33%
+26,Tour Paris Promenade,150,12,DS Waluigi Pinball,4,33.33%
+26,Tour Paris Promenade,150,12,Tour Athens Dash,1,8.33%
+26,Tour Paris Promenade,150,12,Tour Paris Promenade,5,41.67%
+26,Tour Paris Promenade,150,12,Random,2,16.67%
+27,Cloudtop Cruise,150,9,Cloudtop Cruise,5,55.56%
+27,Cloudtop Cruise,150,9,Random,1,11.11%
+27,Cloudtop Cruise,150,9,Merry Mountain,2,22.22%
+27,Cloudtop Cruise,150,9,Tour Los Angeles Laps,1,11.11%
+28,Ice Ice Outpost,150,9,Ice Ice Outpost,3,33.33%
+28,Ice Ice Outpost,150,9,GBA Ribbon Road,6,66.67%
+29,Tour Berlin Byways,150,8,Random,3,37.50%
+29,Tour Berlin Byways,150,8,Tour Tokyo Blur,4,50.00%
+29,Tour Berlin Byways,150,8,Tour Berlin Byways,1,12.50%
+30,3DS Neo Bowser City,150,4,3DS Neo Bowser City,3,75.00%
+30,3DS Neo Bowser City,150,4,Piranha Plant Cove,1,25.00%
+31,DS Cheep Cheep Beach,150,12,GCN Waluigi Stadium,3,25.00%
+31,DS Cheep Cheep Beach,150,12,Random,3,25.00%
+31,DS Cheep Cheep Beach,150,12,Ice Ice Outpost,3,25.00%
+31,DS Cheep Cheep Beach,150,12,DS Cheep Cheep Beach,3,25.00%
+32,N64 Rainbow Road,150,11,DS Peach Gardens,3,27.27%
+32,N64 Rainbow Road,150,11,3DS Rainbow Road,5,45.45%
+32,N64 Rainbow Road,150,11,Random,1,9.09%
+32,N64 Rainbow Road,150,11,N64 Rainbow Road,2,18.18%
+33,GBA Mario Circuit,150,12,Wii Rainbow Road,7,58.33%
+33,GBA Mario Circuit,150,12,Random,2,16.67%
+33,GBA Mario Circuit,150,12,Wii Maple Treeway,1,8.33%
+33,GBA Mario Circuit,150,12,GBA Mario Circuit,1,8.33%
+33,GBA Mario Circuit,150,12,DS Waluigi Pinball,1,8.33%
+34,N64 Choco Mountain,150,6,DS Peach Gardens,2,33.33%
+34,N64 Choco Mountain,150,6,N64 Choco Mountain,1,16.67%
+34,N64 Choco Mountain,150,6,Random,1,16.67%
+34,N64 Choco Mountain,150,6,Dolphin Shoals,2,33.33%
+35,DS Cheep Cheep Beach,Mirror,10,SNES Rainbow Road,4,40.00%
+35,DS Cheep Cheep Beach,Mirror,10,Random,4,40.00%
+35,DS Cheep Cheep Beach,Mirror,10,GBA Ribbon Road,1,10.00%
+35,DS Cheep Cheep Beach,Mirror,10,DS Cheep Cheep Beach,1,10.00%
+36,3DS Neo Bowser City,150,10,GBA Ribbon Road,3,30.00%
+36,3DS Neo Bowser City,150,10,3DS Neo Bowser City,1,10.00%
+36,3DS Neo Bowser City,150,10,DS Tick-Tock Clock,3,30.00%
+36,3DS Neo Bowser City,150,10,Random,2,20.00%
+36,3DS Neo Bowser City,150,10,N64 Rainbow Road,1,10.00%
+37,Wii Moonview Highway,150,10,Wii Koopa Cape,2,20.00%
+37,Wii Moonview Highway,150,10,Wii Moonview Highway,1,10.00%
+37,Wii Moonview Highway,150,10,Wii DK Summit,3,30.00%
+37,Wii Moonview Highway,150,10,Random,4,40.00%
+38,Tour Berlin Byways,150,12,Wild Woods,6,50.00%
+38,Tour Berlin Byways,150,12,Tour Berlin Byways,3,25.00%
+38,Tour Berlin Byways,150,12,Random,2,16.67%
+38,Tour Berlin Byways,150,12,Tour Singapore Speedway,1,8.33%
+39,Ninja Hideaway,150,12,Electrodome,2,16.67%
+39,Ninja Hideaway,150,12,Mario Kart Stadium,4,33.33%
+39,Ninja Hideaway,150,12,Random,3,25.00%
+39,Ninja Hideaway,150,12,Ninja Hideaway,3,25.00%
+40,GBA Snow Land,150,12,Dragon Driftway,3,25.00%
+40,GBA Snow Land,150,12,Random,5,41.67%
+40,GBA Snow Land,150,12,GBA Snow Land,4,33.33%
+41,DS Tick Tock Clock,150,10,DS Tick-Tock Clock,1,10.00%
+41,DS Tick Tock Clock,150,10,Cloudtop Cruise,1,10.00%
+41,DS Tick Tock Clock,150,10,Random,2,20.00%
+41,DS Tick Tock Clock,150,10,Wii Moo Moo Meadows,5,50.00%
+41,DS Tick Tock Clock,150,10,Tour Singapore Speedway,1,10.00%
+42,3DS Neo Bowser City,150,12,3DS Neo Bowser City,3,25.00%
+42,3DS Neo Bowser City,150,12,GBA Sky Garden,1,8.33%
+42,3DS Neo Bowser City,150,12,Mario Kart Stadium,6,50.00%
+42,3DS Neo Bowser City,150,12,Random,2,16.67%
+43,N64 Choco Mountain,150,11,GCN Yoshi Circuit,5,45.45%
+43,N64 Choco Mountain,150,11,Thwomp Ruins,3,27.27%
+43,N64 Choco Mountain,150,11,N64 Choco Mountain,2,18.18%
+43,N64 Choco Mountain,150,11,Random,1,9.09%
+44,Squeaky Clean Sprint,150,10,Squeaky Clean Sprint,4,40.00%
+44,Squeaky Clean Sprint,150,10,N64 Royal Raceway,3,30.00%
+44,Squeaky Clean Sprint,150,10,Random,2,20.00%
+44,Squeaky Clean Sprint,150,10,Tour London Loop,1,10.00%
+45,DS Waluigi Pinball,150,12,GCN Daisy Cruiser,5,41.67%
+45,DS Waluigi Pinball,150,12,Tour Singapore Speedway,4,33.33%
+45,DS Waluigi Pinball,150,12,DS Waluigi Pinball,1,8.33%
+45,DS Waluigi Pinball,150,12,Super Bell Subway,1,8.33%
+45,DS Waluigi Pinball,150,12,Random,1,8.33%
+46,SNES Bowser Castle 3,150,9,Wii Rainbow Road,3,33.33%
+46,SNES Bowser Castle 3,150,9,Wii Wario's Gold Mine,4,44.44%
+46,SNES Bowser Castle 3,150,9,SNES Bowser Castle 3,2,22.22%
+47,Sunshine Airport,150,10,Sunshine Airport,5,50.00%
+47,Sunshine Airport,150,10,Squeaky Clean Sprint,3,30.00%
+47,Sunshine Airport,150,10,SNES Bowser Castle 3,2,20.00%
+48,SNES Mario Circuit 3,Mirror,9,Random,4,44.44%
+48,SNES Mario Circuit 3,Mirror,9,Dolphin Shoals,1,11.11%
+48,SNES Mario Circuit 3,Mirror,9,SNES Mario Circuit 3,1,11.11%
+48,SNES Mario Circuit 3,Mirror,9,Wii Wario's Gold Mine,3,33.33%
+49,Electrodome,150,7,3DS Neo Bowser City,3,42.86%
+49,Electrodome,150,7,3DS Toad Circuit,2,28.57%
+49,Electrodome,150,7,Electrodome,1,14.29%
+49,Electrodome,150,7,Random,1,14.29%
+50,Twisted Mansion,Mirror,12,SNES Rainbow Road,2,16.67%
+50,Twisted Mansion,Mirror,12,Wii Wario's Gold Mine,4,33.33%
+50,Twisted Mansion,Mirror,12,GBA Riverside Park,4,33.33%
+50,Twisted Mansion,Mirror,12,Random,1,8.33%
+50,Twisted Mansion,Mirror,12,Twisted Mansion,1,8.33%
+51,Mount Wario,150,12,Wii Koopa Cape,5,41.67%
+51,Mount Wario,150,12,Tour New York Minute,2,16.67%
+51,Mount Wario,150,12,Random,3,25.00%
+51,Mount Wario,150,12,Dolphin Shoals,1,8.33%
+51,Mount Wario,150,12,Mount Wario,1,8.33%
+52,Water Park,150,11,SNES Mario Circuit 3,6,54.55%
+52,Water Park,150,11,Water Park,2,18.18%
+52,Water Park,150,11,Random,3,27.27%
+53,Bowser's Castle,150,12,Bowser's Castle,1,8.33%
+53,Bowser's Castle,150,12,Tour London Loop,1,8.33%
+53,Bowser's Castle,150,12,Random,8,66.67%
+53,Bowser's Castle,150,12,GBA Boo Lake,2,16.67%
+54,3DS Toad Circuit,150,12,Mute City,2,16.67%
+54,3DS Toad Circuit,150,12,Sunshine Airport,3,25.00%
+54,3DS Toad Circuit,150,12,Merry Mountain,4,33.33%
+54,3DS Toad Circuit,150,12,Random,2,16.67%
+54,3DS Toad Circuit,150,12,3DS Toad Circuit,1,8.33%
+55,N64 Royal Raceway,150,12,N64 Royal Raceway,8,66.67%
+55,N64 Royal Raceway,150,12,Piranha Plant Cove,2,16.67%
+55,N64 Royal Raceway,150,12,Random,2,16.67%
+56,Tour Tokyo Blur,150,12,Random,5,41.67%
+56,Tour Tokyo Blur,150,12,Super Bell Subway,1,8.33%
+56,Tour Tokyo Blur,150,12,GBA Boo Lake,2,16.67%
+56,Tour Tokyo Blur,150,12,Tour Tokyo Blur,4,33.33%
+57,Merry Mountain,150,10,Dragon Driftway,1,10.00%
+57,Merry Mountain,150,10,SNES Donut Plains 3,3,30.00%
+57,Merry Mountain,150,10,Merry Mountain,3,30.00%
+57,Merry Mountain,150,10,Random,3,30.00%
+58,Wii Mushroom Gorge,150,12,Wii Koopa Cape,3,25.00%
+58,Wii Mushroom Gorge,150,12,SNES Mario Circuit 3,4,33.33%
+58,Wii Mushroom Gorge,150,12,DS Shroom Ridge,3,25.00%
+58,Wii Mushroom Gorge,150,12,Wii Mushroom Gorge,1,8.33%
+59,Wii Koopa Cape,150,12,Wii Koopa Cape,3,25.00%
+59,Wii Koopa Cape,150,12,Tour Athens Dash,2,16.67%
+59,Wii Koopa Cape,150,12,N64 Rainbow Road,3,25.00%
+59,Wii Koopa Cape,150,12,Random,4,33.33%
+60,Dolphin Shoals,150,12,Dragon Driftway,2,16.67%
+60,Dolphin Shoals,150,12,Dolphin Shoals,2,16.67%
+60,Dolphin Shoals,150,12,3DS Rock Rock Mountain,7,58.33%
+60,Dolphin Shoals,150,12,Random,1,8.33%
+61,SNES Mario Circuit 3,150,12,DS Waluigi Pinball,4,33.33%
+61,SNES Mario Circuit 3,150,12,3DS Piranha Plant Slide,1,8.33%
+61,SNES Mario Circuit 3,150,12,N64 Toad's Turnpike,3,25.00%
+61,SNES Mario Circuit 3,150,12,SNES Mario Circuit 3,1,8.33%
+61,SNES Mario Circuit 3,150,12,Random,3,25.00%
+62,Wild Woods,150,12,GCN Dry Dry Desert,3,25.00%
+62,Wild Woods,150,12,GBA Sky Garden,5,41.67%
+62,Wild Woods,150,12,Wild Woods,1,8.33%
+62,Wild Woods,150,12,Random,2,16.67%
+62,Wild Woods,150,12,Bone-Dry Dunes,1,8.33%
+63,Ice Ice Outpost,150,11,Ice Ice Outpost,2,18.18%
+63,Ice Ice Outpost,150,11,Random,4,36.36%
+63,Ice Ice Outpost,150,11,N64 Yoshi Valley,4,36.36%
+63,Ice Ice Outpost,150,11,Tour Athens Dash,1,9.09%
+64,Yoshi's Island,150,12,3DS Rainbow Road,1,8.33%
+64,Yoshi's Island,150,12,Super Bell Subway,3,25.00%
+64,Yoshi's Island,150,12,Random,4,33.33%
+64,Yoshi's Island,150,12,Yoshi's Island,1,8.33%
+64,Yoshi's Island,150,12,Tour Rome Avanti,3,25.00%
+65,Merry Mountain,150,12,Squeaky Clean Sprint,3,25.00%
+65,Merry Mountain,150,12,Merry Mountain,1,8.33%
+65,Merry Mountain,150,12,Random,5,41.67%
+65,Merry Mountain,150,12,Tour Rome Avanti,2,16.67%
+65,Merry Mountain,150,12,Tour Vancouver Velocity,1,8.33%
+66,Wii Daisy Circuit,150,9,Mario Kart Stadium,4,44.44%
+66,Wii Daisy Circuit,150,9,Random,3,33.33%
+66,Wii Daisy Circuit,150,9,3DS Music Park,1,11.11%
+66,Wii Daisy Circuit,150,9,Wii Daisy Circuit,1,11.11%
+67,GCN Baby Park,150,12,Wii Daisy Circuit,6,50.00%
+67,GCN Baby Park,150,12,Animal Crossing,2,16.67%
+67,GCN Baby Park,150,12,Random,3,25.00%
+67,GCN Baby Park,150,12,GCN Baby Park,1,8.33%
+68,Twisted Mansion,150,9,Bowser's Castle,2,22.22%
+68,Twisted Mansion,150,9,Super Bell Subway,2,22.22%
+68,Twisted Mansion,150,9,Random,3,33.33%
+68,Twisted Mansion,150,9,Twisted Mansion,1,11.11%
+68,Twisted Mansion,150,9,Tour Rome Avanti,1,11.11%
+69,DS Peach Gardens,150,12,3DS Toad Circuit,6,50.00%
+69,DS Peach Gardens,150,12,DS Peach Gardens,1,8.33%
+69,DS Peach Gardens,150,12,Random,2,16.67%
+69,DS Peach Gardens,150,12,N64 Toad's Turnpike,2,16.67%
+69,DS Peach Gardens,150,12,Super Bell Subway,1,8.33%
+70,Wild Woods,150,12,Wild Woods,3,25.00%
+70,Wild Woods,150,12,Random,6,50.00%
+70,Wild Woods,150,12,Rainbow Road,3,25.00%
+71,Tour Madrid Drive,150,12,Rainbow Road,4,33.33%
+71,Tour Madrid Drive,150,12,Random,5,41.67%
+71,Tour Madrid Drive,150,12,Tour Madrid Drive,1,8.33%
+71,Tour Madrid Drive,150,12,GBA Cheese Land,2,16.67%
+72,Wii Daisy Circuit,150,7,Hyrule Circuit,4,57.14%
+72,Wii Daisy Circuit,150,7,Random,1,14.29%
+72,Wii Daisy Circuit,150,7,Wii Daisy Circuit,2,28.57%
+73,Bowser's Castle,150,8,Bowser's Castle,5,62.50%
+73,Bowser's Castle,150,8,Tour Singapore Speedway,1,12.50%
+73,Bowser's Castle,150,8,Random,1,12.50%
+73,Bowser's Castle,150,8,Thwomp Ruins,1,12.50%
+74,Mario Circuit,150,10,Mario Circuit,3,30.00%
+74,Mario Circuit,150,10,Rainbow Road,2,20.00%
+74,Mario Circuit,150,10,Tour Amsterdam Drift,1,10.00%
+74,Mario Circuit,150,10,Random,4,40.00%
+75,GCN Sherbet Land,150,11,Wii Coconut Mall,5,45.45%
+75,GCN Sherbet Land,150,11,GCN Sherbet Land,2,18.18%
+75,GCN Sherbet Land,150,11,Random,4,36.36%
+76,N64 Toad's Turnpike,150,12,GBA Sunset Wilds,2,16.67%
+76,N64 Toad's Turnpike,150,12,Tour Singapore Speedway,1,8.33%
+76,N64 Toad's Turnpike,150,12,N64 Toad's Turnpike,4,33.33%
+76,N64 Toad's Turnpike,150,12,Random,5,41.67%
+77,GBA Cheese Land,150,9,Wii Wario's Gold Mine,2,22.22%
+77,GBA Cheese Land,150,9,3DS Rock Rock Mountain,4,44.44%
+77,GBA Cheese Land,150,9,GBA Cheese Land,2,22.22%
+77,GBA Cheese Land,150,9,Random,1,11.11%
+78,Tour Athens Dash,150,11,Tour Paris Promenade,4,36.36%
+78,Tour Athens Dash,150,11,DS Shroom Ridge,4,36.36%
+78,Tour Athens Dash,150,11,Random,2,18.18%
+78,Tour Athens Dash,150,11,Tour Athens Dash,1,9.09%
+79,Tour Berlin Byways,150,8,Toad Harbor,3,37.50%
+79,Tour Berlin Byways,150,8,Tour Berlin Byways,2,25.00%
+79,Tour Berlin Byways,150,8,Merry Mountain,2,25.00%
+79,Tour Berlin Byways,150,8,Random,1,12.50%
+80,DS Cheep Cheep Beach,150,8,Wii Maple Treeway,3,37.50%
+80,DS Cheep Cheep Beach,150,8,DS Cheep Cheep Beach,4,50.00%
+80,DS Cheep Cheep Beach,150,8,Random,1,12.50%
+81,GBA Sunset Wilds,150,8,GBA Sunset Wilds,2,25.00%
+81,GBA Sunset Wilds,150,8,Toad Harbor,2,25.00%
+81,GBA Sunset Wilds,150,8,Random,1,12.50%
+81,GBA Sunset Wilds,150,8,GCN Baby Park,3,37.50%
+82,Tour Bangkok Rush,150,12,GCN DK Mountain,5,41.67%
+82,Tour Bangkok Rush,150,12,Random,3,25.00%
+82,Tour Bangkok Rush,150,12,Piranha Plant Cove,2,16.67%
+82,Tour Bangkok Rush,150,12,Tour Bangkok Rush,2,16.67%
+83,Squeaky Clean Sprint,150,12,Squeaky Clean Sprint,4,33.33%
+83,Squeaky Clean Sprint,150,12,Wild Woods,2,16.67%
+83,Squeaky Clean Sprint,150,12,Random,3,25.00%
+83,Squeaky Clean Sprint,150,12,Piranha Plant Cove,3,25.00%
+84,Tour London Loop,150,11,GCN Yoshi Circuit,3,27.27%
+84,Tour London Loop,150,11,3DS Piranha Plant Slide,1,9.09%
+84,Tour London Loop,150,11,Random,6,54.55%
+84,Tour London Loop,150,11,Tour London Loop,1,9.09%
+85,N64 Yoshi Valley,150,10,3DS Toad Circuit,5,50.00%
+85,N64 Yoshi Valley,150,10,Piranha Plant Cove,2,20.00%
+85,N64 Yoshi Valley,150,10,N64 Yoshi Valley,1,10.00%
+85,N64 Yoshi Valley,150,10,Random,1,10.00%
+85,N64 Yoshi Valley,150,10,Mount Wario,1,10.00%
+86,GBA Snow Land,150,7,GBA Snow Land,4,57.14%
+86,GBA Snow Land,150,7,Tour Amsterdam Drift,1,14.29%
+86,GBA Snow Land,150,7,Big Blue,1,14.29%
+86,GBA Snow Land,150,7,Random,1,14.29%
+87,Tour Athens Dash,150,8,Wii Coconut Mall,4,50.00%
+87,Tour Athens Dash,150,8,Tour Athens Dash,4,50.00%
+88,GCN DK Mountain,150,9,GCN DK Mountain,4,44.44%
+88,GCN DK Mountain,150,9,Tour Paris Promenade,3,33.33%
+88,GCN DK Mountain,150,9,Merry Mountain,2,22.22%
+89,DS Peach Gardens,150,10,Wii Coconut Mall,5,50.00%
+89,DS Peach Gardens,150,10,Animal Crossing,1,10.00%
+89,DS Peach Gardens,150,10,DS Peach Gardens,3,30.00%
+89,DS Peach Gardens,150,10,Random,1,10.00%
+90,DS Tick-Tock Clock,150,11,Wii Moo Moo Meadows,5,45.45%
+90,DS Tick-Tock Clock,150,11,Random,3,27.27%
+90,DS Tick-Tock Clock,150,11,DS Tick-Tock Clock,3,27.27%
+91,Mount Wario,150,10,Mount Wario,6,60.00%
+91,Mount Wario,150,10,N64 Kalimari Desert,3,30.00%
+91,Mount Wario,150,10,Random,1,10.00%
+92,Squeaky Clean Sprint,150,12,Squeaky Clean Sprint,4,33.33%
+92,Squeaky Clean Sprint,150,12,Sweet Sweet Canyon,2,16.67%
+92,Squeaky Clean Sprint,150,12,Random,2,16.67%
+92,Squeaky Clean Sprint,150,12,SNES Mario Circuit 3,4,33.33%
+93,Wild Woods,150,12,Wild Woods,5,41.67%
+93,Wild Woods,150,12,Excitebike Arena,5,41.67%
+93,Wild Woods,150,12,Big Blue,2,16.67%
+94,DS Shroom Ridge,150,10,DS Shroom Ridge,2,20.00%
+94,DS Shroom Ridge,150,10,Big Blue,4,40.00%
+94,DS Shroom Ridge,150,10,Tour Paris Promenade,4,40.00%
+95,GCN DK Mountain,150,10,GCN DK Mountain,6,60.00%
+95,GCN DK Mountain,150,10,Dolphin Shoals,2,20.00%
+95,GCN DK Mountain,150,10,Random,2,20.00%
+96,GBA Riverside Park,150,12,Dragon Driftway,4,33.33%
+96,GBA Riverside Park,150,12,GBA Riverside Park,6,50.00%
+96,GBA Riverside Park,150,12,Sweet Sweet Canyon,2,16.67%
+97,Twisted Mansion,150,12,Mute City,7,58.33%
+97,Twisted Mansion,150,12,Mario Kart Stadium,2,16.67%
+97,Twisted Mansion,150,12,Twisted Mansion,1,8.33%
+97,Twisted Mansion,150,12,Random,2,16.67%
+98,Tour London Loop,150,12,Random,4,33.33%
+98,Tour London Loop,150,12,Tour London Loop,4,33.33%
+98,Tour London Loop,150,12,Rainbow Road,1,8.33%
+98,Tour London Loop,150,12,GBA Cheese Land,3,25.00%
+99,SNES Bowser Castle 3,150,12,Random,2,16.67%
+99,SNES Bowser Castle 3,150,12,Tour Madrid Drive,4,33.33%
+99,SNES Bowser Castle 3,150,12,SNES Bowser Castle 3,1,8.33%
+99,SNES Bowser Castle 3,150,12,DS Tick-Tock Clock,3,25.00%
+99,SNES Bowser Castle 3,150,12,Merry Mountain,2,16.67%
+100,GBA Snow Land,150,11,Wii Coconut Mall,5,45.45%
+100,GBA Snow Land,150,11,GBA Snow Land,1,9.09%
+100,GBA Snow Land,150,11,Merry Mountain,4,36.36%
+100,GBA Snow Land,150,11,Random,1,9.09%
+101,DS Shroom Ridge,150,12,DS Shroom Ridge,3,25.00%
+101,DS Shroom Ridge,150,12,GCN Waluigi Stadium,5,41.67%
+101,DS Shroom Ridge,150,12,Random,3,25.00%
+101,DS Shroom Ridge,150,12,GBA Riverside Park,1,8.33%
+102,Ninja Hidaway,150,10,Random,6,60.00%
+102,Ninja Hidaway,150,10,Ninja Hidaway,1,10.00%
+102,Ninja Hidaway,150,10,Tour London Loop,3,30.00%
+103,SNES Mario Circuit 3,200,12,3DS Neo Bowser City,5,41.67%
+103,SNES Mario Circuit 3,200,12,Random,3,25.00%
+103,SNES Mario Circuit 3,200,12,N64 Yoshi Valley,3,25.00%
+103,SNES Mario Circuit 3,200,12,SNES Mario Circuit 3,1,8.33%
+104,Twisted Mansion,150,12,Random,5,41.67%
+104,Twisted Mansion,150,12,Twisted Mansion,6,50.00%
+104,Twisted Mansion,150,12,Tour Athens Dash,1,8.33%
+105,Tour Bangkok Rush,150,12,GBA Sunset Wilds,4,33.33%
+105,Tour Bangkok Rush,150,12,Random,3,25.00%
+105,Tour Bangkok Rush,150,12,Wii Maple Treeway,4,33.33%
+105,Tour Bangkok Rush,150,12,Tour Bangkok Rush,1,8.33%
