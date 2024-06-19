@@ -1,0 +1,97 @@
+course_id,course,cup,nth_race,debut_console
+1,Mario Kart Stadium,Mushroom,1,Wii U
+2,Water Park,Mushroom,2,Wii U
+3,Sweet Sweet Canyon,Mushroom,3,Wii U
+4,Thwomp Ruins,Mushroom,4,Wii U
+5,Mario Circuit,Flower,1,Wii U
+6,Toad Harbor,Flower,2,Wii U
+7,Twisted Mansion,Flower,3,Wii U
+8,Shy Guy Falls,Flower,4,Wii U
+9,Sunshine Airport,Star,1,Wii U
+10,Dolphin Shoals,Star,2,Wii U
+11,Electrodome,Star,3,Wii U
+12,Mount Wario,Star,4,Wii U
+13,Cloudtop Cruise,Special,1,Wii U
+14,Bone-Dry Dunes,Special,2,Wii U
+15,Bowser's Castle,Special,3,Wii U
+16,Rainbow Road,Special,4,Wii U
+17,GCN Yoshi Circuit,Egg,1,GCN
+18,Excitebike Arena,Egg,2,Wii U
+19,Dragon Driftway,Egg,3,Wii U
+20,Mute City,Egg,4,Wii U
+21,GCN Baby Park,Crossing,1,GCN
+22,GBA Cheese Land,Crossing,2,GBA
+23,Wild Woods,Crossing,3,Wii U
+24,Animal Crossing,Crossing,4,Wii U
+25,Wii Moo Moo Meadows,Shell,1,Wii
+26,GBA Mario Circuit,Shell,2,GBA
+27,DS Cheep Cheep Beach,Shell,3,DS
+28,N64 Toad's Turnpike,Shell,4,N64
+29,GCN Dry Dry Desert,Banana,1,GCN
+30,SNES Donut Plains 3,Banana,2,SNES
+31,N64 Royal Raceway,Banana,3,N64
+32,3DS DK Jungle,Banana,4,3DS
+33,DS Wario Stadium,Leaf,1,DS
+34,GCN Sherbet Land,Leaf,2,GCN
+35,3DS Music Park,Leaf,3,3DS
+36,N64 Yoshi Valley,Leaf,4,N64
+37,DS Tick-Tock Clock,Lightning,1,DS
+38,3DS Piranha Plant Slide,Lightning,2,3DS
+39,Wii Grumble Volcano,Lightning,3,Wii
+40,N64 Rainbow Road,Lightning,4,N64
+41,Wii Wario's Gold Mine,Triforce,1,Wii
+42,SNES Rainbow Road,Triforce,2,SNES
+43,Ice Ice Outpost,Triforce,3,Wii U
+44,Hyrule Circuit,Triforce,4,Wii U
+45,3DS Neo Bowser City,Bell,1,3DS
+46,GBA Ribbon Road,Bell,2,GBA
+47,Super Bell Subway,Bell,3,Wii U
+48,Big Blue,Bell,4,Wii U
+49,Tour Paris Promenade,Golden Dash,1,Tour
+50,3DS Toad Circuit,Golden Dash,2,3DS
+51,N64 Choco Mountain,Golden Dash,3,N64
+52,Wii Coconut Mall,Golden Dash,4,Wii
+53,Tour Tokyo Blur,Lucky Cat,1,Tour
+54,DS Shroom Ridge,Lucky Cat,2,DS
+55,GBA Sky Garden,Lucky Cat,3,GBA
+56,Ninja Hideaway,Lucky Cat,4,Switch
+57,Tour New York Minute,Turnip,1,Tour
+58,SNES Mario Circuit 3,Turnip,2,SNES
+59,N64 Kalimari Desert,Turnip,3,N64
+60,DS Waluigi Pinball,Turnip,4,DS
+61,Tour Sydney Sprint,Propeller,1,Tour
+62,GBA Snow Land,Propeller,2,GBA
+63,Wii Mushroom Gorge,Propeller,3,Wii
+64,Sky-High Sundae,Propeller,4,Switch
+65,Tour London Loop,Rock,1,Tour
+66,GBA Boo Lake,Rock,2,GBA
+67,3DS Rock Rock Mountain,Rock,3,3DS
+68,Wii Maple Treeway,Rock,4,Wii
+69,Tour Berlin Byways,Moon,1,Tour
+70,DS Peach Gardens,Moon,2,DS
+71,Merry Mountain,Moon,3,Switch
+72,3DS Rainbow Road,Moon,4,3DS
+73,Tour Amsterdam Drift,Fruit,1,Tour
+74,GBA Riverside Park,Fruit,2,GBA
+75,Wii DK Summit,Fruit,3,Wii
+76,Yoshi's Island,Fruit,4,Switch
+77,Tour Bangkok Rush,Boomerang,1,Tour
+78,DS Mario Circuit,Boomerang,2,DS
+79,GCN Waluigi Stadium,Boomerang,3,GCN
+80,Tour Singapore Speedway,Boomerang,4,Tour
+81,Tour Athens Dash,Feather,1,Tour
+82,GCN Daisy Cruiser,Feather,2,GCN
+83,Wii Moonview Highway,Feather,3,Wii
+84,Squeaky Clean Sprint,Feather,4,Switch
+85,Tour Los Angeles Laps,Cherry,1,Tour
+86,GBA Sunset Wilds,Cherry,2,GBA
+87,Wii Koopa Cape,Cherry,3,Wii
+88,Tour Vancouver Velocity,Cherry,4,Tour
+89,Tour Rome Avanti,Acorn,1,Tour
+90,GCN DK Mountain,Acorn,2,GCN
+91,Wii Daisy Circuit,Acorn,3,Wii
+92,Piranha Plant Cove,Acorn,4,Switch
+93,Tour Madrid Drive,Spiny,1,Tour
+94,3DS Rosalina's Ice World,Spiny,2,3DS
+95,SNES Bowser Castle 3,Spiny,3,SNES
+96,Wii Rainbow Road,Spiny,4,Wii
